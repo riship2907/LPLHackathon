@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f21e1ea4-2756-4f61-a80f-7826814c72d3" name="Changes" comment="created file directory" />
+    <list default="true" id="f21e1ea4-2756-4f61-a80f-7826814c72d3" name="Changes" comment="added backend code">
+      <change beforePath="$PROJECT_DIR$/frontend/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/services/api.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/services/api.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,7 +82,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1769801987616</updated>
-      <workItem from="1769801988735" duration="1013000" />
+      <workItem from="1769801988735" duration="1316000" />
     </task>
     <task id="LOCAL-00001" summary="Create Project">
       <option name="closed" value="true" />
@@ -128,7 +132,15 @@
       <option name="project" value="LOCAL" />
       <updated>1769803005550</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="added backend code">
+      <option name="closed" value="true" />
+      <created>1769803140552</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1769803140552</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,6 +152,7 @@
     <MESSAGE value="settings" />
     <MESSAGE value="create backend files" />
     <MESSAGE value="created file directory" />
-    <option name="LAST_COMMIT_MESSAGE" value="created file directory" />
+    <MESSAGE value="added backend code" />
+    <option name="LAST_COMMIT_MESSAGE" value="added backend code" />
   </component>
 </project>
