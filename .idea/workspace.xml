@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f21e1ea4-2756-4f61-a80f-7826814c72d3" name="Changes" comment="create backend files">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/trade_processor.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/trade_processor.py" afterDir="false" />
-    </list>
+    <list default="true" id="f21e1ea4-2756-4f61-a80f-7826814c72d3" name="Changes" comment="created file directory" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,7 +78,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1769801987616</updated>
-      <workItem from="1769801988735" duration="643000" />
+      <workItem from="1769801988735" duration="1013000" />
     </task>
     <task id="LOCAL-00001" summary="Create Project">
       <option name="closed" value="true" />
@@ -123,7 +120,15 @@
       <option name="project" value="LOCAL" />
       <updated>1769802587651</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="created file directory">
+      <option name="closed" value="true" />
+      <created>1769803005550</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1769803005550</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,6 +139,7 @@
     <MESSAGE value="create main.py" />
     <MESSAGE value="settings" />
     <MESSAGE value="create backend files" />
-    <option name="LAST_COMMIT_MESSAGE" value="create backend files" />
+    <MESSAGE value="created file directory" />
+    <option name="LAST_COMMIT_MESSAGE" value="created file directory" />
   </component>
 </project>

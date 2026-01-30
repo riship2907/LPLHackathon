@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+sqlalchemy
+databases
+bcrypt
+python-jose
+pandas
+aiofiles
+email-validator
