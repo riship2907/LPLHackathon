@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f21e1ea4-2756-4f61-a80f-7826814c72d3" name="Changes" comment="settings" />
+    <list default="true" id="f21e1ea4-2756-4f61-a80f-7826814c72d3" name="Changes" comment="create backend files">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/trade_processor.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/trade_processor.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,7 +81,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1769801987616</updated>
-      <workItem from="1769801988735" duration="328000" />
+      <workItem from="1769801988735" duration="643000" />
     </task>
     <task id="LOCAL-00001" summary="Create Project">
       <option name="closed" value="true" />
@@ -109,7 +115,15 @@
       <option name="project" value="LOCAL" />
       <updated>1769802298325</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="create backend files">
+      <option name="closed" value="true" />
+      <created>1769802587651</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1769802587651</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,6 +133,7 @@
     <MESSAGE value="Create Project" />
     <MESSAGE value="create main.py" />
     <MESSAGE value="settings" />
-    <option name="LAST_COMMIT_MESSAGE" value="settings" />
+    <MESSAGE value="create backend files" />
+    <option name="LAST_COMMIT_MESSAGE" value="create backend files" />
   </component>
 </project>
